@@ -1,5 +1,7 @@
-The first demo of DFAC Remastered has been released!
+Hey everyone! I've released a patch (0.5.1) that fixes some bugs that were encountered on launch.
 
-After about 2 weeks of development, the first demo of DFAC Remastered has been released! Special thanks to the playtesters for helping me test this game, and everyone else who helped contribute to development. Happy holidays!
+- If you die while riding Gotta Sleep, the school no longer turns black next game
+- The impossible question showing up is no longer based on the number of papers you've collected, but based on the number of questions you've answered
+- Control mapper now scales properly, but the cursor appears behind it. I currently do not have a fix for this.
 
-- MoldyGH
+The update is available to download from either GameBanana or GameJolt.
