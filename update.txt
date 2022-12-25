@@ -1,1 +1,5 @@
-Oh hi! MoldyGH here. If you can read this, you're helping me test my devlog system. This is kinda just the place where I post devlogs for this game. If you ever see that notification icon, come check out what I have to say!
+The first demo of DFAC Remastered has been released!
+
+After about 2 weeks of development, the first demo of DFAC Remastered has been released! Special thanks to the playtesters for helping me test this game, and everyone else who helped contribute to development. Happy holidays!
+
+- MoldyGH
