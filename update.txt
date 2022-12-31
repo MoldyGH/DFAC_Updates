@@ -1,5 +1,3 @@
-Hey there! Another update has been released (0.5.2).
+It seems there is a game-breaking bug with PlayRobot that prevents you from jumping during the jump rope minigame. I am currently out with family for new years, but I will get to work on a patch this coming Monday.
 
-There's too many additions to list here, but a general explanation of this new update would be that I've updated the menu a bit, fixed some new glitches, and added an endless mode! Those who are signed in to GameJolt can submit thier endless mode scores to a public leaderboard.
-
-With all said, thanks for playing my game and happy new year!
+- MoldyGH
