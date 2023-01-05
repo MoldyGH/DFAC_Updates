@@ -1,5 +1,5 @@
-Hey there! Another update has been released (0.5.2).
+Hello everyone! I've released once again another patch (0.5.3) that fixes some bugs that were in the previous version, plus makes some new additions!
 
-There's too many additions to list here, but a general explanation of this new update would be that I've updated the menu a bit, fixed some new glitches, and added an endless mode! Those who are signed in to GameJolt can submit thier endless mode scores to a public leaderboard.
+I've also added some new date-based easter eggs, such as a top secret Diamond Man voiceline... Have fun!
 
-With all said, thanks for playing my game and happy new year!
+- MoldyGH
