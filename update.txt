@@ -1,5 +1,0 @@
-Hello everyone! I've released once again another patch (0.5.3) that fixes some bugs that were in the previous version, plus makes some new additions!
-
-I've also added some new date-based easter eggs, such as a top secret Diamond Man voiceline... Have fun!
-
-- MoldyGH
